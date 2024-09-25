@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello 👋
+
+I’m a Junior Front-End Developer, looking for my first commercial experience.
+
+I have been learning programming since April 2023. While participating 11-month Full Stack Developer Kodilla bootcamp, I created many projects using JavaSript, React and NodeJS. You can see my final project [here](https://github.com/Aleksandra-Gorecka/E-commerce_Plant_Shop).
 
 <!--
 **Aleksandra-Gorecka/Aleksandra-Gorecka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
